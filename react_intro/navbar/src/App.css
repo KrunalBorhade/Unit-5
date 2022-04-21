@@ -1,0 +1,22 @@
+.App {
+  width: 97%;
+  display: flex;
+  justify-content:space-between;
+  margin: auto;
+  margin-top: 0px;
+  background-color:black;
+  padding:20px;
+  color:white;
+}
+.btn{
+  background-color:teal;
+  border-radius:25px;
+  border: none;
+  color:white;
+  padding:8px;
+  
+}
+a{
+  margin:0px 20px;
+}
+
