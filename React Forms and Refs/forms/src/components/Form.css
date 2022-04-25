@@ -1,0 +1,22 @@
+form{
+    background-color:teal;
+    width: 40%;
+   margin:  auto;
+    padding: 20px;
+}
+input{
+    margin-bottom: 10px;
+    
+}
+textarea{
+    margin-left: 40px;
+}
+select{
+    border-radius: 8px;
+    font-weight: 700; 
+
+}
+
+option{
+    font-weight: 700; 
+}
